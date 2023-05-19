@@ -1,0 +1,17 @@
+#first{
+    height: 500px;
+    background-image: url("https://cdn.shopify.com/s/files/1/1661/9589/files/Yoga_Dreieck_grande.jpg?v=1511366609");
+    text-align: center;
+    color: white;
+    padding-top: 200px;
+    font-size: xx-large
+}
+#prime{
+color: black;
+}
+ul{
+    list-style: none
+}
+.sector{
+    text-align: center;
+}
